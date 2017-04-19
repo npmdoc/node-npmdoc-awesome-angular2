@@ -1,9 +1,14 @@
-# api documentation for  [awesome-angular2 (v0.0.0)](https://github.com/angular-class/awesome-angular2#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-awesome-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-awesome-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-awesome-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-awesome-angular2)
+# npmdoc-awesome-angular2
+
+#### api documentation for  [awesome-angular2 (v0.0.0)](https://github.com/angular-class/awesome-angular2#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-awesome-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-awesome-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-awesome-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-awesome-angular2)
+
 #### A curated list of awesome Angular 2 resources
 
-[![NPM](https://nodei.co/npm/awesome-angular2.png?downloads=true)](https://www.npmjs.com/package/awesome-angular2)
+[![NPM](https://nodei.co/npm/awesome-angular2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/awesome-angular2)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-awesome-angular2_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-awesome-angular2/build/screenCapture.npmPackageListing.svg)
 
@@ -44,13 +49,11 @@
     "main": "readme.md",
     "maintainers": [
         {
-            "name": "gdi2290",
-            "email": "npm@gdi2290.com"
+            "name": "gdi2290"
         }
     ],
     "name": "awesome-angular2",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular-class/awesome-angular2.git"
@@ -61,16 +64,6 @@
     "version": "0.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module awesome-angular2](#apidoc.module.awesome-angular2)
-
-
-
-# <a name="apidoc.module.awesome-angular2"></a>[module awesome-angular2](#apidoc.module.awesome-angular2)
 
 
 
